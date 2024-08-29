@@ -4,3 +4,5 @@ PEGASUS, FLAN-T5, and BART, fine-tuning them on a curated subset of environmenta
 Scholar Open Research Corpus (S2ORC). We evaluate the models using both automated metrics (ROUGE, BERTScore)
 and human assessments, noting that, while traditional metrics may not fully capture summary quality, human
 evaluations reveal the strengths of our fine-tuned models.
+
+Work completed at @UC Berkeley School of Information
